@@ -31,6 +31,9 @@ screen -S prl
 
 - Kendinizdeki Kopyaladığınız Komutu Sunucuda Girin & Artık Başlayacaktır - CTRL A+D Yapıp Screenden Çıkabilirsiniz Devam edecek; 
 
+<img width="1297" height="354" alt="image" src="https://github.com/user-attachments/assets/84973f84-86b0-4e32-9c07-eaeb0c54a570" />
+
+
 <img width="956" height="780" alt="image" src="https://github.com/user-attachments/assets/5b5970f1-42d9-4c2d-b075-0022bf02d657" />
 
 #### Solo ( Tek Kendi Başına ) için Katılım
@@ -57,5 +60,8 @@ screen -S prl
 ```
 
 - Kendinizdeki Kopyaladığınız Komutu Sunucuda Girin & Artık Başlayacaktır - CTRL A+D Yapıp Screenden Çıkabilirsiniz Devam edecek; 
+
+<img width="1286" height="334" alt="image" src="https://github.com/user-attachments/assets/f0dfeaf6-de58-4af2-be79-c506cc48ccd3" />
+
 
 <img width="956" height="780" alt="image" src="https://github.com/user-attachments/assets/5b5970f1-42d9-4c2d-b075-0022bf02d657" />
